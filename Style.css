@@ -1,5 +1,6 @@
 .fondo {
-    background-color: rgb(44, 44, 69)
+    background-color: rgb(44, 44, 69);
+    font-family: helvetica;
 }
 
 .pie {
@@ -13,4 +14,10 @@
 .parrafo_footer {
     margin-top: 1px;
     margin-bottom: 1px;
+}
+
+.logo_inter {
+    text-align: center;
+    background-color: rgb(194, 31, 34);
+    border-color: rgb(194, 31, 34);
 }
