@@ -21,3 +21,10 @@
     background-color: rgb(194, 31, 34);
     border-color: rgb(194, 31, 34);
 }
+
+.ultima_hora {
+    background-color: rgb(131, 131, 146);
+    border-color: rgb(194, 31, 34);
+    border-top: 10px;
+    border-bottom: 10px;
+}
