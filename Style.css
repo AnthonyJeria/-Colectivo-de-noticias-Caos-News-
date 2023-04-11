@@ -28,3 +28,9 @@
     border-top: 10px;
     border-bottom: 10px;
 }
+
+.fondo_fut {
+    background: url(Imagenes/cancha.png);
+    background-size: cover;
+    background-position: center;
+}
