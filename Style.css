@@ -34,3 +34,9 @@
     background-size: cover;
     background-position: center;
 }
+
+.titulo_football {
+    background-color: rgb(194, 31, 34);
+    text-align: center;
+    color: beige;
+}
