@@ -38,3 +38,12 @@
     text-align: center;
     color: beige;
 }
+
+.carrousel-img{
+    width: 100px;
+    height: auto;
+    object-fit:contain;
+}
+.carrousel{
+    margin-top: 10px;
+}
