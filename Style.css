@@ -5,6 +5,7 @@
 
 .pie {
     background-color: rgb(194, 31, 34);
+    color: rgb(255, 255, 255);
 }
 
 .enlaces {
@@ -39,11 +40,23 @@
     color: beige;
 }
 
-.carrousel-img{
+.carrousel-img {
     width: 100px;
     height: auto;
-    object-fit:contain;
+    object-fit: contain;
 }
-.carrousel{
+
+.carrousel {
     margin-top: 10px;
+}
+
+.text_tarjetas {
+    height: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.img_tarjeta {
+    height: 250px;
+    object-fit: cover;
 }
