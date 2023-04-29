@@ -90,3 +90,9 @@
     height: 250px;
     object-fit: cover;
 }
+
+.text_destacada {
+    height: 360px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
