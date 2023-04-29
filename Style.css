@@ -28,6 +28,24 @@
     border-bottom: 10px;
 }
 
+.fondo_zona_norte {
+    background-color: rgb(172, 95, 78);
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo_zona_centro {
+    background-color: rgb(105, 163, 88);
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo_zona_sur {
+    background-color: rgb(89, 89, 169);
+    background-size: cover;
+    background-position: center;
+}
+
 .fondo_dep_nacional {
     background-color: rgb(131, 131, 146);
     background-size: cover;
