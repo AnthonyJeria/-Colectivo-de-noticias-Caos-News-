@@ -1,0 +1,83 @@
+body{
+
+    background-image:url(../Imagenes/logo_chaos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
+
+main{
+
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.marco-login{
+
+    height: 300px;
+    padding: 10px 20px;
+    justify-content: center;
+    background-color: rgba(97, 24, 110, 0.6);
+    border-radius: 20px;
+    max-width: 300px;
+    margin: auto;
+
+}
+
+.marco-login form h2{
+
+    font-weight: 550;
+    font-size: 35px;
+    text-align: center;
+    margin: 20px 10px;
+
+}
+
+.marco-login form input{
+
+    width: 80%;
+    padding: 7px;
+    margin: 14px;
+    text-align:left;
+    font-size: 12px;
+
+}
+
+.link a{
+
+    padding: 10px 20px;
+    color:black;
+    text-align: center;
+
+}
+
+.boton{
+
+    width: 100%;
+
+}
+
+.boton button{
+
+    padding: 7px 20px;
+    border: 2px solid black;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 550;
+    cursor: pointer;
+    transition: all 200ms;
+    margin: 14px;
+
+}
+
+.boton button:hover{
+
+    padding: 10px 23px;
+
+}
+
