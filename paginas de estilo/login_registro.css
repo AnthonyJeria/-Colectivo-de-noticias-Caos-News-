@@ -21,9 +21,9 @@ main{
 
 .link{
 
-    width: 70%;
+    width: 85%;
     padding: 7px 14px;
-    margin: 12px;
+    margin: 10px;
     text-align: center;
  
  }
@@ -36,9 +36,9 @@ main{
  
  .boton{
  
-     width: 70%;
+     width: 85%;
      padding: 7px 14px;
-     margin: 12px;
+     margin: 10px;
      text-align: center;
  
  }
@@ -52,7 +52,7 @@ main{
      font-weight: 550;
      cursor: pointer;
      transition: all 100ms;
-     margin: 14px;
+     margin: 10px;
  
  }
  
@@ -66,10 +66,10 @@ main{
 
 .marco-login{
 
-    height: 330px;
+    height: 370px;
     padding: 10px 20px;
     justify-content: center;
-    background-color: rgba(97, 24, 110, 0.6);
+    background-color: rgba(97, 24, 110, 0.9);
     border-radius: 20px;
     max-width: 300px;
     margin: auto;
@@ -82,12 +82,13 @@ main{
     font-size: 35px;
     text-align: center;
     margin: 20px 10px;
+    color:black;  
 
 }
 
 .marco-login form input{
 
-    width: 80%;
+    width: 85%;
     padding: 7px;
     margin: 14px;
     text-align:left;
@@ -99,10 +100,10 @@ main{
 
 .marco-registrarse{
 
-    height: 450px;
+    height: 500px;
     padding: 10px 20px;
     justify-content: center;
-    background-color: rgba(97, 24, 110, 0.6);
+    background-color: rgba(97, 24, 110, 0.9);
     border-radius: 20px;
     max-width: 300px;
     margin: auto;
@@ -115,12 +116,13 @@ main{
     font-size: 35px;
     text-align: center;
     margin: 20px 10px;
+    color:black; 
 
 }
 
 .marco-registrarse form input{
 
-    width: 80%;
+    width: 85%;
     padding: 7px;
     margin: 14px;
     text-align:left;
@@ -130,9 +132,9 @@ main{
 
 .marco-registrarse form a{
 
-    width: 70%;
-   padding: 7px 14px;
-   margin: 12px;
-   text-align: center;
+    width: 85%;
+    padding: 7px 14px;
+    margin: 12px;
+    text-align: center;
 
 }
