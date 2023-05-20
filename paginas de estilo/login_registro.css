@@ -1,3 +1,5 @@
+/*Diseños que ambas páginas comparten*/
+
 body{
 
     background-image:url(../Imagenes/logo_chaos.png);
@@ -17,9 +19,54 @@ main{
 
 }
 
+.link{
+
+    width: 70%;
+    padding: 7px 14px;
+    margin: 12px;
+    text-align: center;
+ 
+ }
+ 
+ .link a{
+ 
+     color:black;   
+ 
+ }
+ 
+ .boton{
+ 
+     width: 70%;
+     padding: 7px 14px;
+     margin: 12px;
+     text-align: center;
+ 
+ }
+ 
+ .boton button{
+ 
+     padding: 7px 20px;
+     border: 2px solid black;
+     background: transparent;
+     font-size: 14px;
+     font-weight: 550;
+     cursor: pointer;
+     transition: all 100ms;
+     margin: 14px;
+ 
+ }
+ 
+ .boton button:hover{
+ 
+     padding: 10px 23px;
+ 
+ }
+
+/*diseño de la página login*/
+
 .marco-login{
 
-    height: 300px;
+    height: 330px;
     padding: 10px 20px;
     justify-content: center;
     background-color: rgba(97, 24, 110, 0.6);
@@ -48,36 +95,44 @@ main{
 
 }
 
-.link a{
+/*diseño de la página registro*/
 
+.marco-registrarse{
+
+    height: 450px;
     padding: 10px 20px;
-    color:black;
-    text-align: center;
+    justify-content: center;
+    background-color: rgba(97, 24, 110, 0.6);
+    border-radius: 20px;
+    max-width: 300px;
+    margin: auto;
 
 }
 
-.boton{
+.marco-registrarse form h2{
 
-    width: 100%;
-
-}
-
-.boton button{
-
-    padding: 7px 20px;
-    border: 2px solid black;
-    background: transparent;
-    font-size: 14px;
     font-weight: 550;
-    cursor: pointer;
-    transition: all 200ms;
+    font-size: 35px;
+    text-align: center;
+    margin: 20px 10px;
+
+}
+
+.marco-registrarse form input{
+
+    width: 80%;
+    padding: 7px;
     margin: 14px;
+    text-align:left;
+    font-size: 12px;
 
 }
 
-.boton button:hover{
+.marco-registrarse form a{
 
-    padding: 10px 23px;
+    width: 70%;
+   padding: 7px 14px;
+   margin: 12px;
+   text-align: center;
 
 }
-
